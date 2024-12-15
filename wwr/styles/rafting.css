@@ -215,16 +215,12 @@ nav.sociallinks {
   display: flex;
   padding: 0;
   gap: 10px;
+  text-decoration: none;
 }
 
 .sociallink a:hover {
   opacity: 0.9;
 }
-
-/* .sociallink a:visited {
-  color: purple;
-  text-decoration: none;
-} */
 
 .sociallinks img {
   width: 24px;
